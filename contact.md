@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Get in touch for collaborations, questions, or academic discussions
+permalink: /contact/
 ---
 
 <div class="contact-intro">

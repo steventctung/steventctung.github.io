@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 subtitle: Academic papers, preprints, and mathematical contributions
+permalink: /publications/
 ---
 
 ## Journal Articles

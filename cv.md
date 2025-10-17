@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 subtitle: Academic background and achievements
+permalink: /cv/
 ---
 
 <div class="cv-download">

@@ -2,6 +2,7 @@
 layout: page
 title: Research
 subtitle: Current projects and research interests in mathematics
+permalink: /research/
 ---
 
 ## Research Interests

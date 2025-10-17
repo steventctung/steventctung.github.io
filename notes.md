@@ -2,6 +2,7 @@
 layout: page
 title: Mathematical Notes
 subtitle: Course notes, research notes, and mathematical explorations
+permalink: /notes/
 ---
 
 <div class="notes-intro">
