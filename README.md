@@ -2,14 +2,14 @@
 
 This is a Jekyll-powered academic portfolio website designed for easy maintenance and content updates. The site is built with an academic minimal aesthetic and optimized for GitHub Pages hosting.
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Repository Setup**: Create a new repository named `steventctung.github.io`
 2. **Upload Files**: Upload all files from this directory to your repository
 3. **Enable GitHub Pages**: Go to Settings → Pages → Source: Deploy from a branch → Branch: main
 4. **Wait**: Your site will be available at `https://steventctung.github.io` within a few minutes
 
-## 📁 Website Structure
+## Website Structure
 
 ```
 ├── _config.yml          # Site configuration
@@ -30,7 +30,7 @@ This is a Jekyll-powered academic portfolio website designed for easy maintenanc
 └── contact.md         # Contact page
 ```
 
-## ✏️ How to Update Content
+## How to Update Content
 
 ### 1. Adding New Research Projects
 
@@ -106,15 +106,15 @@ Edit `_config.yml` to update:
 - GitHub username
 - Navigation menu
 
-## 📄 Managing PDF Files
+## Managing PDF Files
 
 1. **Upload Location**: Place all PDFs in `assets/pdfs/`
 2. **Naming Convention**: Use descriptive, lowercase names with underscores
-   - ✅ `real_analysis_notes.pdf`
-   - ❌ `Notes 1.pdf`
+   - `real_analysis_notes.pdf`
+   - `Notes 1.pdf`
 3. **File Sizes**: Keep PDFs under 25MB for faster loading
 
-## 🎨 Customizing the Design
+## Customizing the Design
 
 ### Colors
 The main colors are defined in `assets/css/main.css`:
@@ -129,7 +129,7 @@ The main colors are defined in `assets/css/main.css`:
 ### Layout
 The design is responsive and works on all devices. Maximum content width is 800px for optimal readability.
 
-## 🔧 Advanced Customization
+## Advanced Customization
 
 ### Adding New Pages
 1. Create a new `.md` file in the root directory
@@ -159,7 +159,7 @@ Instead of just linking to PDFs, you can create dedicated pages:
    Additional content here...
    ```
 
-## 🌐 GitHub Pages Deployment
+## GitHub Pages Deployment
 
 ### Automatic Deployment
 - Every time you push changes to the main branch, GitHub automatically rebuilds your site
@@ -170,7 +170,7 @@ Instead of just linking to PDFs, you can create dedicated pages:
 2. Configure DNS settings with your domain provider
 3. Enable HTTPS in repository settings
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Site Not Loading
 1. Check that repository is named `steventctung.github.io`
@@ -187,7 +187,7 @@ Instead of just linking to PDFs, you can create dedicated pages:
 2. Check that filenames in YAML match exactly (case-sensitive)
 3. Ensure PDF files are committed to the repository
 
-## 📚 Mathematical Content Best Practices
+## Mathematical Content Best Practices
 
 ### LaTeX to PDF Workflow
 1. Write your notes in LaTeX
@@ -202,7 +202,7 @@ Instead of just linking to PDFs, you can create dedicated pages:
 - Write clear, concise descriptions
 - Use proper date formatting (YYYY-MM-DD)
 
-## 🆘 Getting Help
+## Getting Help
 
 If you encounter issues:
 1. Check this README first
@@ -210,7 +210,7 @@ If you encounter issues:
 3. Ensure all syntax is correct (YAML is sensitive to formatting)
 4. Contact your friend who set up the site for technical help
 
-## 🔄 Regular Maintenance
+## Regular Maintenance
 
 ### Monthly Tasks
 - [ ] Update CV page with new achievements
