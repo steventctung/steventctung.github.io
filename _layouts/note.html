@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article class="note">
+    <header class="note-header">
+        <h1 class="note-title">{{ page.title }}</h1>
+        <div class="note-meta">
+            <span class="note-topic">{{ page.topic }}</span>
+            <span class="note-date">{{ page.date | date: "%B %Y" }}</span>
+        </div>
+        {% if page.description %}
+        <p class="note-description">{{ page.description }}</p>
+        {% endif %}
+    </header>
+
+    <div class="note-content">
+        {% if page.pdf %}
+        <div class="pdf-download">
+            <a href="{{ '/assets/pdfs/' | append: page.pdf | relative_url }}"
+               class="btn btn-primary" target="_blank">
+                Download PDF
+            </a>
+        </div>
+        {% endif %}
+
+        {{ content }}
+    </div>
+
+    <footer class="note-footer">
+        <a href="{{ '/notes/' | relative_url }}" class="back-link">← Back to Notes</a>
+    </footer>
+</article>

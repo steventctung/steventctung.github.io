@@ -1,0 +1,48 @@
+# Site settings
+title: Steven T.C. Tung
+email: steven.tung@rutgers.edu
+description: >-
+  Mathematics PhD Candidate at Rutgers University specializing in Partial Differential Equations.
+  Undergraduate researcher with interests in mathematical analysis and applications.
+
+baseurl: ""
+url: "https://steventctung.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Collections
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:name/
+
+# Kramdown settings for math
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Navigation
+navigation:
+  - title: About
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Notes
+    url: /notes/
+  - title: CV
+    url: /cv/
+  - title: Contact
+    url: /contact/
+
+# Social links
+github_username: steventctung

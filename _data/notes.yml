@@ -1,0 +1,46 @@
+# Mathematical Notes
+# Add new notes here following the same format
+# Notes are organized by topic and listed chronologically
+
+- title: "Real Analysis Fundamentals"
+  topic: "Real Analysis"
+  date: "2024-03-15"
+  course: "Math 311 - Real Analysis I"
+  description: "Comprehensive notes covering limits, continuity, and differentiation in real analysis. Includes detailed proofs and examples."
+  pages: 45
+  pdf: "real_analysis_fundamentals.pdf"
+  # url: "/notes/real-analysis-fundamentals/"  # Use this if you want a dedicated page
+
+- title: "Introduction to Partial Differential Equations"
+  topic: "Partial Differential Equations"
+  date: "2024-04-20"
+  course: "Math 421 - PDEs"
+  description: "Initial exploration of PDE theory including classification of equations, method of characteristics, and separation of variables."
+  pages: 38
+  pdf: "intro_to_pdes.pdf"
+
+- title: "Complex Analysis Applications"
+  topic: "Complex Analysis"
+  date: "2024-02-10"
+  course: "Math 351 - Complex Analysis"
+  description: "Applications of complex analysis including contour integration, residue calculus, and conformal mappings."
+  pages: 52
+  pdf: "complex_analysis_applications.pdf"
+
+- title: "Abstract Algebra: Group Theory"
+  topic: "Abstract Algebra"
+  date: "2024-01-25"
+  course: "Math 371 - Abstract Algebra I"
+  description: "Fundamental concepts in group theory including group actions, Sylow theorems, and classification of finite groups."
+  pages: 29
+  pdf: "group_theory_notes.pdf"
+
+# Example of how to add new notes:
+# - title: "New Note Title"
+#   topic: "Topic Name"
+#   date: "YYYY-MM-DD"
+#   course: "Course Name (optional)"
+#   description: "Brief description of the content"
+#   pages: number_of_pages
+#   pdf: "filename.pdf"
+#   # url: "/notes/url-slug/"  # Optional: if you want a dedicated page instead of just PDF

@@ -1,0 +1,28 @@
+# Research Projects
+# Add new research projects here following the same format
+
+- title: "Numerical Methods for Solving Nonlinear PDEs"
+  advisor: "Prof. [Advisor Name]"
+  period: "Spring 2024 - Present"
+  status: "Ongoing"
+  description: "Investigating computational approaches to solving nonlinear partial differential equations with applications to mathematical physics. Focus on finite difference methods and their convergence properties."
+  skills:
+    - "MATLAB programming"
+    - "Numerical analysis"
+    - "PDE theory"
+    - "Convergence analysis"
+  links:
+    - title: "GitHub Repository"
+      url: "https://github.com/steventctung/pde-numerical-methods"
+
+# - title: "Example Second Project"
+#   advisor: "Prof. [Another Advisor]"
+#   period: "Fall 2023 - Spring 2024"
+#   status: "Completed"
+#   description: "Description of another research project..."
+#   skills:
+#     - "Skill 1"
+#     - "Skill 2"
+#   links:
+#     - title: "Paper"
+#       url: "link-to-paper.pdf"

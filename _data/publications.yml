@@ -1,0 +1,54 @@
+# Publications
+# Add new publications here following the same format
+# Types: journal, preprint, presentation, thesis
+
+# Example journal article (uncomment and fill when available)
+# - type: "journal"
+#   title: "Title of the Paper"
+#   authors: ["Steven T.C. Tung", "Co-author Name"]
+#   journal: "Journal of Mathematics"
+#   volume: "15"
+#   pages: "123-145"
+#   year: "2024"
+#   abstract: "Abstract of the paper..."
+#   links:
+#     - title: "DOI"
+#       url: "https://doi.org/10.1000/journal.example"
+#     - title: "arXiv"
+#       url: "https://arxiv.org/abs/2024.12345"
+
+# Example preprint (uncomment and fill when available)
+# - type: "preprint"
+#   title: "Working Title of Preprint"
+#   authors: ["Steven T.C. Tung"]
+#   arxiv: "2024.12345"
+#   year: "2024"
+#   status: "Submitted to Journal of Mathematics"
+#   abstract: "Abstract of the preprint..."
+#   links:
+#     - title: "arXiv"
+#       url: "https://arxiv.org/abs/2024.12345"
+
+# Example conference presentation (uncomment and fill when available)
+# - type: "presentation"
+#   title: "Title of Presentation"
+#   conference: "Annual Mathematics Conference"
+#   location: "New York, NY"
+#   date: "March 2024"
+#   type_detail: "Poster Presentation"
+#   abstract: "Abstract of the presentation..."
+#   links:
+#     - title: "Poster PDF"
+#       url: "/assets/pdfs/poster_conference_2024.pdf"
+
+# Example thesis (will be filled when completed)
+# - type: "thesis"
+#   title: "Senior Thesis Title"
+#   degree: "Bachelor of Arts in Mathematics"
+#   institution: "Rutgers University"
+#   year: "2025"
+#   advisor: "Prof. [Advisor Name]"
+#   abstract: "Abstract of the thesis..."
+#   links:
+#     - title: "PDF"
+#       url: "/assets/pdfs/senior_thesis.pdf"
