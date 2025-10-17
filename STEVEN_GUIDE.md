@@ -1,8 +1,8 @@
-# 📖 Steven's Website Update Guide
+# Website Update Guide
 
-Hi Steven! This is a simplified guide for updating your website. Your friend has set up everything to be as easy as possible.
+This is a simplified guide for updating your website. Your friend has set up everything to be as easy as possible.
 
-## 🎯 Most Common Tasks
+## Most Common Tasks
 
 ### Adding a New Math Note
 
@@ -48,7 +48,7 @@ Hi Steven! This is a simplified guide for updating your website. Your friend has
 3. Add your project following the example format
 4. Commit changes
 
-## 🔍 Quick Reference
+## Quick Reference
 
 ### Your Website Sections
 
@@ -67,15 +67,15 @@ Hi Steven! This is a simplified guide for updating your website. Your friend has
 - **Research data**: `_data/research.yml`
 - **Publications data**: `_data/publications.yml`
 
-## ⚠️ Important Rules
+## Important Rules
 
 1. **File names**: Use lowercase letters, numbers, and underscores only
-   - ✅ `topology_notes.pdf`
-   - ❌ `Topology Notes.pdf`
+   - `topology_notes.pdf`
+   - `Topology Notes.pdf`
 
 2. **Dates**: Always use YYYY-MM-DD format
-   - ✅ `2024-10-17`
-   - ❌ `October 17, 2024`
+   - `2024-10-17`
+   - `October 17, 2024`
 
 3. **YAML formatting**: Be very careful with spaces and indentation
    - Use spaces, not tabs
@@ -83,14 +83,14 @@ Hi Steven! This is a simplified guide for updating your website. Your friend has
 
 4. **Wait time**: After making changes, wait 5 minutes for the website to update
 
-## 🆘 If Something Breaks
+## If Something Breaks
 
 1. **Check your YAML formatting** - make sure spaces and indentation match the examples
 2. **Check file names** - make sure they match exactly between your YAML and uploaded files
 3. **Wait 5 minutes** - sometimes changes take time to appear
 4. **Contact your friend** - they can help fix any technical issues
 
-## 📱 Checking Your Website
+## Checking Your Website
 
 Your website is live at: **https://steventctung.github.io**
 
@@ -99,7 +99,7 @@ After making changes:
 2. Refresh the page
 3. Check that your changes appear correctly
 
-## 🎓 Pro Tips
+## Pro Tips
 
 - **Organize your notes by topic** - use consistent topic names like "Real Analysis", "Partial Differential Equations"
 - **Write good descriptions** - help visitors understand what each note covers
@@ -113,4 +113,4 @@ After making changes:
 2. Adding a few lines to a YAML file
 3. Waiting for the magic to happen!
 
-Your friend has made it so the website automatically organizes everything beautifully. 🎨
+Your friend has made it so the website automatically organizes everything beautifully.

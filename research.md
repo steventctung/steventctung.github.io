@@ -11,12 +11,8 @@ My primary research interests lie at the intersection of mathematical analysis a
 
 - **Partial Differential Equations (PDEs)**: Theoretical foundations and analytical methods
 - **Mathematical Analysis**: Real analysis, functional analysis, and measure theory
-- **Applied Mathematics**: Computational approaches to solving differential equations
-- **Mathematical Physics**: Applications of PDEs in physical systems
 
-## Current Research
-
-### Undergraduate Research Projects
+## Current Research Projects
 
 {% for project in site.data.research %}
 <div class="research-item">
@@ -51,13 +47,12 @@ My primary research interests lie at the intersection of mathematical analysis a
 As I transition into graduate studies, I am eager to deepen my understanding of:
 
 - Advanced techniques in PDE theory
-- Numerical methods for solving complex differential equations
 - Applications of mathematical analysis to real-world problems
-- Collaboration with researchers in applied mathematics and related fields
+- Collaboration with researchers in mathematics and related fields
 
 ## Research Philosophy
 
-Mathematics, at its core, is about discovering patterns and structures that govern our universe. Through my research in PDEs, I aim to contribute to our understanding of how mathematical models can capture and predict complex phenomena. I believe in the power of rigorous mathematical analysis combined with computational tools to solve challenging problems.
+Mathematics, at its core, is about discovering patterns and structures that govern our universe. Through my research in PDEs, I aim to contribute to our understanding of how mathematical models can capture and predict complex phenomena. I believe in the power of rigorous mathematical analysis to solve challenging problems.
 
 ---
 

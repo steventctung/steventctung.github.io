@@ -6,38 +6,31 @@ permalink: /contact/
 ---
 
 <div class="contact-intro">
-    <p>I welcome opportunities to discuss mathematics, research collaborations, or academic matters. Whether you're a fellow student, researcher, or potential PhD advisor, I'd be happy to connect.</p>
+    <p> 
+        I welcome opportunities to discuss mathematics, research collaborations, or academic matters. 
+        Whether you're a fellow student, researcher, or potential PhD advisor, I'd be happy to connect.
+    </p>
 </div>
 
 <div class="contact-info">
     <div class="contact-item">
-        <span class="contact-label">Email:</span>
+        <span class="contact-label">
+            Email:
+        </span>
         <span class="contact-value">
-            <a href="mailto:steven.tung@rutgers.edu">steven.tung@rutgers.edu</a>
+            <a href="mailto:steven.tung@rutgers.edu">
+                steven.tung@rutgers.edu
+            </a>
         </span>
     </div>
-
     <div class="contact-item">
-        <span class="contact-label">Institution:</span>
+        <span class="contact-label">
+            Institution:
+        </span>
         <span class="contact-value">
             Department of Mathematics<br>
             Rutgers University<br>
             New Brunswick, NJ
-        </span>
-    </div>
-
-    <div class="contact-item">
-        <span class="contact-label">GitHub:</span>
-        <span class="contact-value">
-            <a href="https://github.com/steventctung" target="_blank">github.com/steventctung</a>
-        </span>
-    </div>
-
-    <div class="contact-item">
-        <span class="contact-label">ORCID:</span>
-        <span class="contact-value">
-            <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">0000-0000-0000-0000</a>
-            <br><small>(To be updated when available)</small>
         </span>
     </div>
 </div>
@@ -45,35 +38,15 @@ permalink: /contact/
 ## Research Interests & Collaboration
 
 <div class="collaboration-section">
-    <p>I'm particularly interested in discussing:</p>
+    <p>
+        I'm particularly interested in discussing:
+    </p>
     <ul>
-        <li><strong>Partial Differential Equations:</strong> Theoretical aspects and applications</li>
+        <li><strong>Partial Differential Equations:</strong> Theoretical aspects</li>
         <li><strong>Mathematical Analysis:</strong> Real analysis, functional analysis, measure theory</li>
         <li><strong>Graduate School Opportunities:</strong> PhD programs and research directions</li>
         <li><strong>Academic Collaboration:</strong> Joint research projects or study groups</li>
-        <li><strong>Mathematical Education:</strong> Teaching methods and learning resources</li>
     </ul>
-</div>
-
-## Office Hours & Availability
-
-<div class="availability-section">
-    <div class="availability-item">
-        <span class="availability-label">Academic Year:</span>
-        <span class="availability-time">
-            Mondays & Wednesdays: 2:00 PM - 4:00 PM<br>
-            Fridays: 10:00 AM - 12:00 PM<br>
-            <small>Hill Center, Room XXX (To be updated)</small>
-        </span>
-    </div>
-
-    <div class="availability-item">
-        <span class="availability-label">Response Time:</span>
-        <span class="availability-time">
-            Email: Within 24-48 hours<br>
-            Academic matters: Priority response
-        </span>
-    </div>
 </div>
 
 ## Current Status
@@ -81,14 +54,12 @@ permalink: /contact/
 <div class="status-section">
     <div class="status-item">
         <span class="status-label">Academic Status:</span>
-        <span class="status-value">Senior Undergraduate (Class of 2025)</span>
+        <span class="status-value">Senior Undergraduate (Class of 2026)</span>
     </div>
-
     <div class="status-item">
         <span class="status-label">Graduate Applications:</span>
         <span class="status-value">Currently applying for PhD programs in Mathematics</span>
     </div>
-
     <div class="status-item">
         <span class="status-label">Research Focus:</span>
         <span class="status-value">Partial Differential Equations and Mathematical Analysis</span>
@@ -104,9 +75,11 @@ permalink: /contact/
         <li>A clear subject line indicating the purpose of your message</li>
         <li>Your name and affiliation</li>
         <li>Specific questions or topics you'd like to discuss</li>
-        <li>Preferred meeting format (in-person, video call, etc.) if applicable</li>
     </ul>
-    <p>I strive to respond promptly to all academic and professional inquiries. For urgent matters, please indicate the time-sensitive nature in your subject line.</p>
+    <p>
+        I strive to respond promptly to all academic and professional inquiries. 
+        For urgent matters, please indicate the time-sensitive nature in your subject line.
+    </p>
 </div>
 
 <style>

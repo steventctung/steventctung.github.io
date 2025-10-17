@@ -6,7 +6,10 @@ permalink: /notes/
 ---
 
 <div class="notes-intro">
-    <p>This collection contains notes from my mathematical studies, organized by topic but listed chronologically within each section. All notes are available as PDF downloads and cover various areas of mathematics that I've explored during my undergraduate studies.</p>
+    <p>
+        This collection contains notes from my mathematical studies, organized by topic but listed chronologically within each section. 
+        All notes are available as PDF downloads and cover various areas of mathematics that I've explored during my undergraduate studies.
+    </p>
 </div>
 
 ## Notes by Topic
@@ -58,54 +61,14 @@ permalink: /notes/
 </div>
 {% endif %}
 
-## All Notes (Chronological)
-
-{% assign all_notes = site.data.notes | sort: "date" | reverse %}
-
-<div class="chronological-notes">
-    <h3>Complete Timeline</h3>
-    <div class="timeline">
-        {% for note in all_notes %}
-        <div class="timeline-item">
-            <div class="timeline-date">{{ note.date | date: "%b %Y" }}</div>
-            <div class="timeline-content">
-                {% if note.url %}
-                <a href="{{ note.url | relative_url }}" class="timeline-title">{{ note.title }}</a>
-                {% elsif note.pdf %}
-                <a href="{{ '/assets/pdfs/' | append: note.pdf | relative_url }}" class="timeline-title" target="_blank">{{ note.title }}</a>
-                {% else %}
-                <span class="timeline-title">{{ note.title }}</span>
-                {% endif %}
-                <div class="timeline-meta">
-                    <span class="timeline-topic">{{ note.topic }}</span>
-                    {% if note.course %}
-                    <span class="timeline-course"> • {{ note.course }}</span>
-                    {% endif %}
-                </div>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
-</div>
-
-{% if site.data.notes.size == 0 %}
-<div class="no-notes">
-    <p>The chronological timeline will appear here as notes are added.</p>
-</div>
-{% endif %}
-
 ---
 
 <div class="notes-info">
     <h3>About These Notes</h3>
-    <p>These notes represent my ongoing mathematical journey and serve multiple purposes:</p>
-    <ul>
-        <li><strong>Learning Documentation:</strong> Recording key concepts and theorems for future reference</li>
-        <li><strong>Problem-Solving:</strong> Working through challenging problems and solutions</li>
-        <li><strong>Research Preparation:</strong> Building foundations for advanced research topics</li>
-        <li><strong>Knowledge Sharing:</strong> Making mathematical insights accessible to fellow students</li>
-    </ul>
-    <p>All notes are written in LaTeX and compiled to PDF for optimal mathematical notation rendering. If you find any errors or have questions about the content, please feel free to <a href="{{ '/contact/' | relative_url }}">reach out</a>.</p>
+    <p>
+        All notes are written in LaTeX and compiled to PDF for optimal mathematical notation rendering. 
+        If you find any errors or have questions about the content, please feel free to <a href="{{ '/contact/' | relative_url }}">reach out</a>.
+    </p>
 </div>
 
 <style>
