@@ -24,7 +24,6 @@ This is a Jekyll-powered academic portfolio website designed for easy maintenanc
 │   ├── pdfs/           # PDF files (notes, CV, papers)
 │   └── images/         # Images and photos
 ├── index.md            # Homepage
-├── research.md         # Research page
 ├── publications.md     # Publications page
 ├── notes.md           # Notes page
 ├── cv.md              # CV page

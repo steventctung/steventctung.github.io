@@ -53,7 +53,6 @@ This is a simplified guide for updating your website. Your friend has set up eve
 ### Your Website Sections
 
 - **About** (`index.md`) - Your introduction and recent updates
-- **Research** - Automatically shows projects from `_data/research.yml`
 - **Publications** - Shows items from `_data/publications.yml`
 - **Notes** - Shows items from `_data/notes.yml`
 - **CV** (`cv.md`) - Your curriculum vitae
