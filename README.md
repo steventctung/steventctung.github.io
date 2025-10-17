@@ -6,8 +6,9 @@ This is a Jekyll-powered academic portfolio website designed for easy maintenanc
 
 1. **Repository Setup**: Create a new repository named `steventctung.github.io`
 2. **Upload Files**: Upload all files from this directory to your repository
-3. **Enable GitHub Pages**: Go to Settings → Pages → Source: Deploy from a branch → Branch: main
-4. **Wait**: Your site will be available at `https://steventctung.github.io` within a few minutes
+3. **Enable GitHub Pages**: Go to Settings → Pages → Source: GitHub Actions
+4. **Automatic Deployment**: The GitHub Actions workflow will automatically build and deploy your site
+5. **Wait**: Your site will be available at `https://steventctung.github.io` within a few minutes
 
 ## Website Structure
 
@@ -161,9 +162,15 @@ Instead of just linking to PDFs, you can create dedicated pages:
 
 ## GitHub Pages Deployment
 
-### Automatic Deployment
-- Every time you push changes to the main branch, GitHub automatically rebuilds your site
+### Automatic Deployment with GitHub Actions
+- The site uses GitHub Actions for modern, reliable deployment
+- Every time you push changes to the main branch, the workflow automatically:
+  1. Sets up Ruby and Jekyll
+  2. Installs dependencies
+  3. Builds the site
+  4. Deploys to GitHub Pages
 - Changes typically appear within 2-5 minutes
+- You can monitor the build process in the "Actions" tab of your repository
 
 ### Custom Domain (Optional)
 1. Add a `CNAME` file with your domain name
